@@ -1,4 +1,7 @@
 ## Hello :)
+blog how to build training pc
+blog how to separate your dataset
+blog nn network c++
 
 - 👋 I’m Loc Chuong
 - 👀 I’m interested in coding, robotics, technology and science
