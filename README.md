@@ -1,4 +1,6 @@
 ## Hello :)
+https://docs.google.com/document/u/0/d/1MQ35ZeMZupJQCz4pUmI2Z0j6yD5VaVRWYBtosGNK0p8/mobilebasic
+
 blog how to build training pc
 
 blog how to separate your dataset
