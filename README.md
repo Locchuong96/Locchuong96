@@ -1,7 +1,5 @@
 ## Hello :)
 
-https://github.com/meetps/pytorch-semseg
-
 - 👋 I’m Loc Chuong
 - 👀 I’m interested in coding, robotics, technology and science
 - 💞️ I’m looking to collaborate on machine learning, data science, and backend
