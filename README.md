@@ -1,7 +1,4 @@
 ## Hello :)
-https://youtu.be/UU1WVnMk4E8?si=2xiZ5rIBa1YJHzy4
-
-https://youtu.be/xZDB1naRUlk?si=pjQGHPUwgPYwW8Ez
 
 - 👋 I’m Loc Chuong
 - 👀 I’m interested in coding, robotics, technology and science
