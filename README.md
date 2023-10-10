@@ -1,5 +1,7 @@
 ## Hello :)
 
+https://youtu.be/xZDB1naRUlk?si=pjQGHPUwgPYwW8Ez
+
 - 👋 I’m Loc Chuong
 - 👀 I’m interested in coding, robotics, technology and science
 - 💞️ I’m looking to collaborate on machine learning, data science, and backend
