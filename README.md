@@ -1,5 +1,7 @@
 ## Hello :)
 
+https://docs.baslerweb.com/optimizing-image-quality
+
 [♪](https://www.youtube.com/watch?v=wThqaZYxu0M&list=RDN7TkK2joi4I&index=16)
 [♫](https://www.youtube.com/watch?v=8dDIc6L1B_I&list=RDN7TkK2joi4I&index=8)
 [♩](https://www.youtube.com/watch?v=OGsFFImOjnw)
